@@ -1,2 +1,1 @@
-# precurcematt
-este es un repositorio temporar del precurce
+Este proyecto es una prueva de como cear un repositorio y clonarlo de gibhub a mi escritorio local 
